@@ -1,4 +1,4 @@
-#English
+# English
 
 - Technology is the enabler of innovation, rather than the driver of innovation. You must have an innovative business idea to leverage technology.
 - In 2009, John Allspaw described an innovative approach to managing development and operations that enabled Flickr to complete over ten deploys per day, when many companies were completing fewer than one deploy every six months. This was a key moment in the growth of DevOps.
@@ -11,7 +11,7 @@
 - The major influential people of the early DevOps movement: Patrick Debois, Andrew Clay Shafer, John Allspaw, Jez Humble, Gene Kim, John Willis, Bridget Kromhout, and Nicole Forsgren, went out and made a difference, showing the results that could be achieved with DevOps.
 - The message spread from practitioner to practitioner until they began to realize what was possible with DevOps and that it was a better way to work.
 
-#Türkçe
+# Türkçe
 
 - Teknoloji, yeniliğin olanak sağlayıcısıdır, yeniliğin itici gücü değildir. Teknolojiyi değerlendirmek için yenilikçi bir iş fikrinizin olması gerekir.
 - 2009'da John Allspaw, birçok şirketin altı ayda bir bile bir dağıtım yaparken Flickr'ın günde ondan fazla dağıtım yapmasını sağlayan geliştirme ve operasyonları yönetme konusunda yenilikçi bir yaklaşımı tanımladı. Bu, DevOps'un büyümesindeki önemli bir an oldu.
