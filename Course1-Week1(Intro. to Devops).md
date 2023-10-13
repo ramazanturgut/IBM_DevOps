@@ -13,13 +13,18 @@
 
 # Türkçe
 
-- Teknoloji, yeniliğin olanak sağlayıcısıdır, yeniliğin itici gücü değildir. Teknolojiyi değerlendirmek için yenilikçi bir iş fikrinizin olması gerekir.
-- 2009'da John Allspaw, birçok şirketin altı ayda bir bile bir dağıtım yaparken Flickr'ın günde ondan fazla dağıtım yapmasını sağlayan geliştirme ve operasyonları yönetme konusunda yenilikçi bir yaklaşımı tanımladı. Bu, DevOps'un büyümesindeki önemli bir an oldu.
-- DevOps, geliştirme ve operasyon mühendislerinin tüm geliştirme yaşam döngüsü boyunca birlikte çalıştığı ve yazılımı hızlı ve sürekli bir şekilde teslim etmelerine olanak tanıyan Lean ve Agile prensiplerini takip eden bir uygulamadır.
-- DevOps, sadece Geliştirme ve Operasyonların bir arada çalışması değildir. Bu, kültürel bir değişim ve farklı bir çalışma şeklidir. DevOps'un üç boyutu vardır: kültür, yöntemler ve araçlar. Bunlardan kültür en önemlisidir.
-- DevOps'un temel özellikleri kültürel değişim, otomatikleştirilmiş süreçler, altyapı olarak kod, değiştirilemez altyapı, bulut tabanlı uygulama tasarımı, konteyner ekosistemi ve değiştirilemez altyapıyla nasıl dağıtım yapılacağıdır.
-- DevOps, Patrick Debois ve Andrew Clay Shafer'ın 2007'de benzer düşünen insanları konferanslarda bir araya getirmeye başladığı zaman başladı.
-- 2009'da Allspaw, şimdi ünlü olan "Günde 10+ Dağıtım - Flickr'da Geliştirme ve Operasyon İşbirliği" sunumunu yaptı ve fikir yaygınlaştı. Ayrıca 2009'da Patrick Debois, DevOps mesajını yayılmasına yardımcı olan DevOpsDays adlı bir konferans başlattı.
-- 2011'de Continuous Delivery, 2015'te The Phoenix Project ve 2016'da The DevOps Handbook gibi kitaplar, uygulamacılara DevOps'un nasıl çalıştığını anlamalarına yardımcı oldu.
-- Erken DevOps hareketinin önemli etkileyici kişileri: Patrick Debois, Andrew Clay Shafer, John Allspaw, Jez Humble, Gene Kim, John Willis, Bridget Kromhout ve Nicole Forsgren, DevOps ile nelerin başarılabileceğini göstererek fark yarattılar.
-- Bu mesaj uygulamadan uygulamaya yayıldı ve insanlar DevOps ile nelerin mümkün olduğunu ve bu işin daha iyi bir yol olduğunu fark etmeye başladılar.
+- Teknoloji, inovasyonun sağlanmasına olanak tanır, ancak inovasyonun ana itici gücü değildir. Teknolojiyi etkili bir şekilde kullanabilmek için yenilikçi bir iş fikrine sahip olmak gereklidir.
+
+- 2009'da John Allspaw, birçok şirketin altı ayda bir dağıtım yaparken Flickr'ın günde ondan fazla dağıtım yapabilmesini sağlayan geliştirme ve operasyon yaklaşımını tanımladı. Bu yaklaşım, DevOps'un büyümesinde önemli bir dönüm noktasıydı.
+
+- DevOps, geliştirme ve operasyon mühendislerinin bir arada çalışarak yazılımı hızlı ve sürekli bir şekilde teslim etmelerine olanak tanıyan Lean ve Agile prensiplerini takip eden bir uygulama yöntemidir.
+
+- DevOps, sadece geliştirme ve operasyonların işbirliği yapması anlamına gelmez. Aynı zamanda kültürel bir değişimi ve farklı bir çalışma şeklini içerir. DevOps'un üç temel bileşeni vardır: kültür, yöntemler ve araçlar. Kültür, bu bileşenlerin en önemlisi olarak kabul edilir.
+
+- DevOps'un temel özellikleri arasında kültürel değişim, süreçlerin otomatikleştirilmesi, altyapının kod olarak yönetilmesi, değiştirilemez altyapı, bulut tabanlı uygulama tasarımı, konteyner teknolojileri ve değiştirilemez altyapıyla dağıtım süreçlerinin nasıl gerçekleştirileceği yer almaktadır.
+
+- DevOps, Patrick Debois ve Andrew Clay Shafer'ın 2007'de benzer düşünen insanları bir araya getirmeye başladığı zaman kökenlerini bulur. 2009'da John Allspaw'ın "Günde 10'dan fazla Dağıtım - Flickr'da Geliştirme ve Operasyon İşbirliği" sunumu bu fikrin yayılmasına katkı sağladı. Ayrıca, 2009'da Patrick Debois, DevOps'un mesajını yaymaya yardımcı olmak amacıyla DevOpsDays adlı bir konferansı başlattı.
+
+- 2011'de Continuous Delivery, 2015'te The Phoenix Project ve 2016'da The DevOps Handbook gibi kitaplar, uygulamacılara DevOps'un işleyişini daha iyi anlama konusunda yardımcı oldular.
+
+- Erken DevOps hareketinin önemli etkileyici kişileri arasında Patrick Debois, Andrew Clay Shafer, John Allspaw, Jez Humble, Gene Kim, John Willis, Bridget Kromhout ve Nicole Forsgren gibi isimler, DevOps'un başarılarıyla bu yaklaşımın ne gibi potansiyellere sahip olduğunu göstererek büyük bir etki yarattılar. Bu mesaj, bir uygulamadan diğerine yayıldı ve insanlar DevOps'un potansiyelini ve işlerin daha iyi nasıl yürütülebileceğini keşfetmeye başladılar.
